@@ -13,7 +13,7 @@ run again and choose 2, notice the file 'extracted.txt' that contains the extrac
 
 
 ##  Features
-- structer: Organized package split logically into separate header, encoding, decoding, and driver files.
+- structure: Organized package split logically into separate header, encoding, decoding, and driver files.
 - Zero Dependencies: Built using the standard C++ libraries (`<iostream>`, `<fstream>`, `<vector>`, and `<string>`). making it portable.
 - Manual Stream Offsets: uses file stream cursors `seekg` and `tellg` to dynamically calculate pixels.
 
