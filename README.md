@@ -26,7 +26,7 @@ run again and choose 2, notice the file 'extracted.txt' that contains the extrac
 - GitHub
 
 ## 📂 Project Structure
-
+```text
  Chameleon/
    ├── steganography.h
    ├── encode.cpp
@@ -34,7 +34,7 @@ run again and choose 2, notice the file 'extracted.txt' that contains the extrac
    ├── main.cpp
    ├── input.bmp *Your bmp file (Keep it within 100-500 KB)*
    └── secret.txt  *The text file of your secret text*
-
+```
 ---
 
 ##  Author
