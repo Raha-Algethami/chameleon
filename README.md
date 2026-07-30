@@ -43,4 +43,7 @@ run again and choose 2, notice the file 'extracted.txt' that contains the extrac
 
 Computer Engineering Student  
 Taif University  
+Saudi Arabia
+
+Taif University  
 Saudi Arabia 🇸🇦
