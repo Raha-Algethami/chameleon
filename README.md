@@ -45,5 +45,3 @@ Computer Engineering Student
 Taif University  
 Saudi Arabia
 
-Taif University  
-Saudi Arabia 🇸🇦
